@@ -1,2 +1,2 @@
 # plane_ticket
-帮某学妹写的cpp作业
+航空订票系统cpp
